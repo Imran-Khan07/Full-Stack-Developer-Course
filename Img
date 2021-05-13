@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dogs</title>
+<style>
+    body{
+        background-color: white;
+    }
+    p{
+    font-style: italic;
+    font-size: large;
+    color:black;
+    }
+</style>
+</head>
+<body>
+<p>Huskies</p>
+<a href="https://www.google.com/search?q=huskies&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjS1t-v0sbwAhWe4zgGHUguAOgQ_AUoAXoECAEQAw&biw=1536&bih=722"><img src = "https://i1.wp.com/readysetpuppy.com/wp-content/uploads/2019/10/Owning-a-Siberian-Husky-Tjhe-Basics.jpg?fit=999%2C538&ssl=1" alt ="cannot display" width="500" height="500"></a> 
+
+</body>
+</html>
